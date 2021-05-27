@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": "8080"
+  },
+  "options": {
+    "schema": "http",
+    "prefix": "localhost:8080"
+  },
+  "redis": {
+    "host": "redis-18044.c10.us-east-1-2.ec2.cloud.redislabs.com",
+    "port": "18044",
+    "dbname": "myredisserver",
+    "password": "7Iz9hFRYB4ZK7EGHddLz0EUNlrotZh5C"
+  }
+}
